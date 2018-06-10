@@ -11,11 +11,11 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="130dp"
+        android:fontFamily="casual"
         android:gravity="end|bottom"
         android:textColor="#3988e7"
         android:textSize="30sp"
-        android:textStyle="bold"
-        android:typeface="monospace" />
+        android:textStyle="bold" />
 
     <TableLayout
         android:layout_width="wrap_content"

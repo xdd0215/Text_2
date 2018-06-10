@@ -137,7 +137,7 @@
                 android:background="@drawable/deepgray_selector"
                 android:text="@string/button_chu"
                 android:textColor="#f7f6f6"
-                android:textSize="15sp"
+                android:textSize="20sp"
                 tools:ignore="ButtonStyle" />
         </TableRow>
 
@@ -199,7 +199,7 @@
                 android:background="@drawable/deepgray_selector"
                 android:text="@string/button_chen"
                 android:textColor="#f7f6f6"
-                android:textSize="15sp"
+                android:textSize="20sp"
                 tools:ignore="ButtonStyle" />
 
 
@@ -263,7 +263,7 @@
                 android:background="@drawable/deepgray_selector"
                 android:text="@string/button_jian"
                 android:textColor="#f7f6f6"
-                android:textSize="15sp"
+                android:textSize="20sp"
                 tools:ignore="ButtonStyle" />
 
 
@@ -328,7 +328,7 @@
                 android:background="@drawable/deepgray_selector"
                 android:text="@string/button_jiahao"
                 android:textColor="#f7f6f6"
-                android:textSize="15sp"
+                android:textSize="20sp"
                 tools:ignore="ButtonStyle" />
 
 
