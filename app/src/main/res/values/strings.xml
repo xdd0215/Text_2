@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Text_1</string>
+    <string name="button_sin"> sin </string>
+    <string name="button_cos"> cos </string>
+    <string name="button_tan"> tan </string>
+    <string name="button_lg"> lg </string>
+    <string name="button_C"> C </string>
+    <string name="button_Backspace"> Backspace </string>
+    <string name="button_n">n!</string>
+    <string name="button_x2">x^2</string>
+    <string name="button_x3">x^3</string>
+    <string name="button_e">e^x</string>
+    <string name="button_change">⇱</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_chu">÷</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_chen">×</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_jian">-</string>
+    <string name="button_dian">•</string>
+    <string name="button_0">0</string>
+    <string name="button_fuhao">+/-</string>
+    <string name="button_jiahao">+</string>
+    <string name="button_deng">=</string>
+</resources>
